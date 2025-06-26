@@ -30,13 +30,20 @@ This project was developed as part of the **SmartInternz "Generative AI with IBM
 
 
 
-## 🧪 Run Locally
+## 🧪 Run Locally 
 
 ### Backend
 ```bash
 cd backend
 pip install -r ../requirements.txt
 uvicorn main:app --reload
+
+## 📄 Project Report
+
+- [View EduTutor AI PDF Report](https://harshavardhanvukkum.github.io/edututor-ai/EduTutor_AI_Project_Report.pdf)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/3e28f9cf-ad4c-4e4a-9f9c-1ec31a11a6cc)
 
