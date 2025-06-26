@@ -30,7 +30,9 @@ This project was developed as part of the **SmartInternz "Generative AI with IBM
 
 ## 📄 Project Report
 
-- [View EduTutor AI PDF Report](https://harshavardhanvukkum.github.io/edututor-ai/EduTutor_AI_Project_Report.pdf)
+📄 [View Project Report (PDF)](https://github.com/HarshaVardhanVukkum/edututor-ai/raw/main/public/EduTutor_AI_Project_Report.pdf)  
+📝 [View Project Report (DOCX)](https://github.com/HarshaVardhanVukkum/edututor-ai/raw/main/public/EduTutor_AI_Project_Report.docx)
+
 
 ![image](https://github.com/user-attachments/assets/3e28f9cf-ad4c-4e4a-9f9c-1ec31a11a6cc)
 
