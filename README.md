@@ -28,15 +28,9 @@ This project was developed as part of the **SmartInternz "Generative AI with IBM
 
 > Thanks to **SmartInternz** and **IBM**, I explored the power of Generative AI in education and cloud deployment strategies. This experience greatly enhanced my practical understanding of AI-based systems.
 
+## 📄 Project Report
 
-
-## 🧪 Run Locally
-
-### Backend
-```bash
-cd backend
-pip install -r ../requirements.txt
-uvicorn main:app --reload
+- [View EduTutor AI PDF Report](https://harshavardhanvukkum.github.io/edututor-ai/EduTutor_AI_Project_Report.pdf)
 
 ![image](https://github.com/user-attachments/assets/3e28f9cf-ad4c-4e4a-9f9c-1ec31a11a6cc)
 
@@ -63,3 +57,17 @@ uvicorn main:app --reload
 [Click here to watch the demo video](https://drive.google.com/file/d/17hPAl9_O368-lNvAsQW_3JBmxL7JBrMa/view?usp=sharing)
 
 Or check inside `outputs/video_link.txt`.
+
+## 🧪 Run Locally 
+
+### Backend
+```bash
+cd backend
+pip install -r ../requirements.txt
+uvicorn main:app --reload
+
+
+
+
+
+
