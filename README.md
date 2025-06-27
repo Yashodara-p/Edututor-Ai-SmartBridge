@@ -28,10 +28,11 @@ This project was developed as part of the **SmartInternz "Generative AI with IBM
 
 > Thanks to **SmartInternz** and **IBM**, I explored the power of Generative AI in education and cloud deployment strategies. This experience greatly enhanced my practical understanding of AI-based systems.
 
-## 📄 Project Report
+## 📄 Project Documents
 
--[📄EduTutor_AI_Project_Report (.pdf)](https://github.com/HarshaVardhanVukkum/edututor-ai/raw/main/documents/EduTutor_AI_Project_Report.pdf)  
--[📝EduTutor_AI_Project_Report (.docx)](https://github.com/HarshaVardhanVukkum/edututor-ai/raw/main/documents/EduTutor_AI_Project_Report.docx)
+- [📝 EduTutor AI Project Report (.docx)](https://github.com/HarshaVardhanVukkum/edututor-ai/blob/main/documents/EduTutor%20AI%20Project%20Report.docx)
+- [📘 EduTutor AI Project Report (.pdf)](https://github.com/HarshaVardhanVukkum/edututor-ai/blob/main/documents/EduTutor%20AI%20Project%20Report.pdf)
+
 
 
 
