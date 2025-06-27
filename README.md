@@ -33,7 +33,11 @@ This project was developed as part of the **SmartInternz "Generative AI with IBM
 - [📝 EduTutor AI Project Report (.docx)](https://github.com/HarshaVardhanVukkum/edututor-ai/blob/main/documents/EduTutor%20AI%20Project%20Report.docx)
 - [📘 EduTutor AI Project Report (.pdf)](https://github.com/HarshaVardhanVukkum/edututor-ai/blob/main/documents/EduTutor%20AI%20Project%20Report.pdf)
 
+## 📹 Demo Video
 
+[Click here to watch the demo video](https://drive.google.com/file/d/17hPAl9_O368-lNvAsQW_3JBmxL7JBrMa/view?usp=sharing)
+
+Or check inside `outputs/video_link.txt`.
 
 
 ![image](https://github.com/user-attachments/assets/3e28f9cf-ad4c-4e4a-9f9c-1ec31a11a6cc)
@@ -56,11 +60,7 @@ This project was developed as part of the **SmartInternz "Generative AI with IBM
 
 
 
-## 📹 Demo Video
 
-[Click here to watch the demo video](https://drive.google.com/file/d/17hPAl9_O368-lNvAsQW_3JBmxL7JBrMa/view?usp=sharing)
-
-Or check inside `outputs/video_link.txt`.
 
 ## 🧪 Run Locally 
 
