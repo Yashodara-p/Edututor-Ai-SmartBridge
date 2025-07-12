@@ -66,9 +66,8 @@ Or check inside `outputs/video_link.txt`.
 
 ### Backend
 ```bash
-cd backend
-pip install -r ../requirements.txt
-uvicorn main:app --reload
+npm install --legacy-peer-deps
+npm run dev
 
 
 
